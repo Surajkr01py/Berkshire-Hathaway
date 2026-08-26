@@ -1,5 +1,4 @@
 # Berkshire-Hathaway
-# Berkshire Hathaway Stock Analysis — Key Findings
 
 ## Overall Trend
 
